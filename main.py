@@ -2,7 +2,7 @@ import pandas as pd
 import random
 
  # Parte 1
-df = pd.read_csv('C:/Users/mathe/Desktop/Python/Previsao Copa do Mundo/data.csv')
+df = pd.read_csv('https://raw.githubusercontent.com/Matheusisac/previsaocopa/main/dados.csv')
 
 class Team:
     Bestscore = 1837.6
